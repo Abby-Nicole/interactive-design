@@ -1,0 +1,46 @@
+.pull-quote {
+  font-weight: 400;
+  letter-spacing: 1.5px;
+  font-style: normal;
+  font-size: 1.125rem;
+  max-width: 50%;
+  line-height: 1.25em;
+  text-transform: uppercase;
+  color: #81B622;
+  float: right;
+  margin: 10px 0 0 20px;
+  background: #171717;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+ body {font-family: 'Roboto', sans-serif;}
+
+ h1  {font-family: 'Roboto', sans-serif;}
+
+ h2  {font-family: 'Roboto', sans-serif;}
+
+ h3 {font-family: 'Roboto', sans-serif;}
+
+.pull-color {color: #81B622;}
+
+
+.header {
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+
+}
+
+/* BRANDING BAR STYLES */
+.brandingBar {
+background-color:#81B622;
+}
+.brandingBarLeft {
+text-align:left;
+}
+.brandingBarRight {
+text-align:right;
+}
+
+.callout {background-color: #d2a77f;}

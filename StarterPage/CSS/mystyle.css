@@ -3,11 +3,11 @@ body { font-family: 'Josefin Sans' }
 .headerbar{width:100%;
 background-color:black;
 color:red;
-padding: 20px, 0 20px, 50px;
-font-size: 2em}
+padding: 20px 0 20px 50px;
+font-size: 1.5em}
 
 .videobarheader{width: 100%;
 background-color: black;
 color: red;
-padding: 20px, 0 20px, 50px;
-font-size: 2em}
+padding: 20px 0 20px 50px;
+font-size: 1.5em}
